@@ -11,7 +11,7 @@
 
 
 
-1. [clean code](/编码规约/clean_code.pdf)
+1. [clean code](/编码规范/clean_code.pdf)
 
 2. [阿里巴巴Java开发手册](/编码规范/阿里巴巴Java开发手册（华山版）.pdf)
 
