@@ -5,11 +5,18 @@
 
 # 书架
 ## 版本控制
-    - [progit_v2.1.24](/版本控制/progit_v2.1.24.pdf)
+1. [progit_v2.1.24](/版本控制/progit_v2.1.24.pdf)
+
 ## 编码规约
-    - [clean code](/编码规约/clean code.pdf)
-    - [阿里巴巴Java开发手册](/编码规范/阿里巴巴Java开发手册（华山版）.pdf)
+
+
+
+1. [clean code](/编码规约/clean code.pdf)
+
+2. [阿里巴巴Java开发手册](/编码规范/阿里巴巴Java开发手册（华山版）.pdf)
+
 
 
 # 其他
+
 待补充
